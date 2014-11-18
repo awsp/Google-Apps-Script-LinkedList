@@ -1,0 +1,23 @@
+{
+  "name": "Google-Apps-Script-LinkedList",
+  "version": "1.0.0",
+  "homepage": "https://github.com/awsp/Google-Apps-Script-LinkedList",
+  "description": "Google Apps Script - LinkedList implementation.",
+  "keywords": [
+    "linkedlist",
+    "Google Apps Script"
+  ],
+  "authors": [
+    "Anthony S. Wu"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "jasmine": "~2.1.2"
+  }
+}
